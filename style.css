@@ -7,7 +7,7 @@
             margin-top: 100px;
         }
         body{
-            background-color:black;
+            background-color:grey;
             color: black;
         }
         .foto-centro{
@@ -50,7 +50,7 @@
             font-family: sans-serif;
             text-decoration: underline;
         }
-        div.indice {
+        div.indice-top {
 
             background-color:white;
             height: 15%;
