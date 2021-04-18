@@ -5,6 +5,10 @@
             font-weight:20px;
             margin-bottom: 50px;
             margin-top: 5px;
+            border: outset;
+            border-style:dotted;
+            border-color: #7ebed3;
+            
         }
         body{
             background-color:#bce0ec;
@@ -38,15 +42,16 @@
             padding: 15px;
             
         }
-         li, ul, ol{
+         li, ol{
             font-family:Arial, Helvetica, sans-serif;
-            color: white;
+            color: black;
             line-height: 30px;
             text-align: center;
             list-style: none;
             list-style-position: inside;
-            background-color: #1f2b35;
-            border-radius: 20px;
+            font-family: monospace;
+            font-size: 30px;
+            
             
         }
         h2{
@@ -62,8 +67,8 @@
             top: 0;
             scroll-behavior: smooth;
         }
-        .aprendizado1{
-            margin-top: 150px;
+        .aprendizado{
+            line-height: 160px;
         }
         .sobre{
             margin-top: 80px;
@@ -71,4 +76,7 @@
         div.pag1{
             background-image:url();
             padding: 45px 45px;
+        }
+        div.aprendizado{
+            background-color: 7ebed3;
         }
