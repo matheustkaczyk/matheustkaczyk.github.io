@@ -1,0 +1,78 @@
+    
+        h1{
+            text-align: center;
+            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-weight:20px;
+            margin-bottom: 50px;
+            margin-top: 50px;
+            border: outset;
+            border-style:dotted;
+            border-color: #7ebed3;
+            
+        }
+        body{
+            background-color:#bce0ec;
+            color: black;
+        }
+        .foto-centro{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 300px;
+            border-radius: 20px;
+            border-style:dashed;
+            border-width:15px;
+            border-color: #7ebed3;
+            float: left;
+            margin-right: 15px;
+            padding: 15px;
+            background-color: #bce0ec;
+        }
+        .text-p{
+            font-family:Arial, Helvetica, sans-serif ;
+            line-height: 25px;
+            background-color: #7ebed3;
+            
+            
+        }
+        .color-h2{
+            background-color: #7ebed3;
+            border-radius: 20px;
+            border-style: dotted;
+            padding: 15px;
+            
+        }
+         li, ol{
+            font-family:Arial, Helvetica, sans-serif;
+            color: black;
+            line-height: 30px;
+            text-align: center;
+            list-style: none;
+            list-style-position: inside;
+            font-family: monospace;
+            font-size: 30px;
+            text-decoration: dotted;
+        }
+        h2{
+            font-family: sans-serif;
+            text-decoration: underline;
+        }
+        div.indice {
+            margin-left: -8px;
+            background-color:#7ebed3;
+            height: 15%;
+            width: 100%;
+            position: fixed;
+            top: 0;
+            scroll-behavior: smooth;
+        }
+        div.aprendizado{
+            line-height: 160px;
+        }
+        .sobre{
+            margin-top: 80px;
+        }
+        div.pag1{
+            background-image:url();
+            padding: 45px 45px;
+        }
