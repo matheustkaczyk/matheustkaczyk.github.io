@@ -4,10 +4,10 @@
             font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
             font-weight:20px;
             margin-bottom: 50px;
-            margin-top: 100px;
+            margin-top: 5px;
         }
         body{
-            background-color:grey;
+            background-color:#bce0ec;
             color: black;
         }
         .foto-centro{
@@ -16,35 +16,38 @@
             margin-right: auto;
             width: 300px;
             border-radius: 20px;
-            border-style:solid;
+            border-style:dashed;
             border-width:15px;
-            border-color: grey;
+            border-color: #7ebed3;
             float: left;
             margin-right: 15px;
             padding: 15px;
-            background-color: grey;
+            background-color: #bce0ec;
         }
         .text-p{
             font-family:Arial, Helvetica, sans-serif ;
             line-height: 25px;
-            background-color: grey;
+            background-color: #7ebed3;
             
             
         }
         .color-h2{
-            background-color: grey;
+            background-color: #7ebed3;
             border-radius: 20px;
+            border-style: dotted;
             padding: 15px;
             
         }
          li, ul, ol{
             font-family:Arial, Helvetica, sans-serif;
+            color: white;
             line-height: 30px;
             text-align: center;
             list-style: none;
             list-style-position: inside;
-            background-color: grey;
+            background-color: #1f2b35;
             border-radius: 20px;
+            
         }
         h2{
             font-family: sans-serif;
