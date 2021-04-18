@@ -54,4 +54,11 @@
             width: 100%;
             position: fixed;
             top: 0;
+            scroll-behavior: smooth;
+        }
+        .aprendizado1{
+            margin-top: 150px;
+        }
+        .sobre{
+            margin-top: 80px;
         }
