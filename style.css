@@ -4,7 +4,7 @@
             font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
             font-weight:20px;
             margin-bottom: 50px;
-            margin-top: 5px;
+            margin-top: 50px;
             border: outset;
             border-style:dotted;
             border-color: #7ebed3;
@@ -51,23 +51,22 @@
             list-style-position: inside;
             font-family: monospace;
             font-size: 30px;
-            
-            
+            text-decoration: dotted;
         }
         h2{
             font-family: sans-serif;
             text-decoration: underline;
         }
-        div.indice-top {
-
-            background-color:white;
+        div.indice {
+            margin-left: -8px;
+            background-color:#7ebed3;
             height: 15%;
             width: 100%;
             position: fixed;
             top: 0;
             scroll-behavior: smooth;
         }
-        .aprendizado{
+        div.aprendizado{
             line-height: 160px;
         }
         .sobre{
@@ -76,7 +75,4 @@
         div.pag1{
             background-image:url();
             padding: 45px 45px;
-        }
-        div.aprendizado{
-            background-color: 7ebed3;
         }
