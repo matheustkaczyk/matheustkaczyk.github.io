@@ -7,7 +7,8 @@
             margin-top: 100px;
         }
         body{
-            background-color:#bce0ec;
+            background-color:black;
+            color: black;
         }
         .foto-centro{
             display: block;
@@ -17,7 +18,7 @@
             border-radius: 20px;
             border-style:solid;
             border-width:15px;
-            border-color: #A4C4CC;
+            border-color: grey;
             float: left;
             margin-right: 15px;
             padding: 15px;
@@ -26,11 +27,12 @@
         .text-p{
             font-family:Arial, Helvetica, sans-serif ;
             line-height: 25px;
+            background-color: grey;
             
             
         }
         .color-h2{
-            background-color: #A4C4CC;
+            background-color: grey;
             border-radius: 20px;
             padding: 15px;
             
@@ -41,7 +43,7 @@
             text-align: center;
             list-style: none;
             list-style-position: inside;
-            background-color: #99B4BC;
+            background-color: grey;
             border-radius: 20px;
         }
         h2{
@@ -50,7 +52,8 @@
         }
         div.indice {
 
-            background-color:#99B4BC;
+            background-color:white;
+            height: 15%;
             width: 100%;
             position: fixed;
             top: 0;
@@ -61,4 +64,8 @@
         }
         .sobre{
             margin-top: 80px;
+        }
+        div.pag1{
+            background-image:url();
+            padding: 45px 45px;
         }
