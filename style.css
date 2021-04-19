@@ -20,7 +20,7 @@
             margin-right: auto;
             width: 300px;
             border-radius: 20px;
-            border-style:dashed;
+            border-style:outset;
             border-width:15px;
             border-color: #7ebed3;
             float: left;
@@ -32,6 +32,7 @@
             font-family:Arial, Helvetica, sans-serif ;
             line-height: 25px;
             background-color: #7ebed3;
+            margin-left: 100px;
             
             
         }
@@ -42,11 +43,11 @@
             padding: 15px;
             
         }
-         li, ol{
+         ol.habilidades, li{
             font-family:Arial, Helvetica, sans-serif;
             color: black;
             line-height: 30px;
-            text-align: center;
+            text-align:;
             list-style: none;
             list-style-position: inside;
             font-family: monospace;
@@ -67,7 +68,9 @@
             scroll-behavior: smooth;
         }
         div.aprendizado{
-            line-height: 160px;
+            line-height:;
+            display:inline;
+            
         }
         .sobre{
             margin-top: 80px;
@@ -75,4 +78,30 @@
         div.pag1{
             background-image:url();
             padding: 45px 45px;
+            margin: 0%;
+        }
+        div.redes{
+            background-image: url(/rede\ v4.png);
+            background-color:#7ebed3 ;
+            background-size:100%;
+            line-height: 50px;
+            left: 100%;
+            right: 100%;
+            padding: 80px;
+        }
+        .aprendizado1{
+            margin-top:100px;
+        }
+        .aprendizado2{
+            margin-top: -47px;
+            margin-left: 250px;
+        }
+        .lista1{
+            float:left;
+        }
+        .lista2{
+            float:left;
+        }
+        div.habilidades{
+            margin-top: 350px;
         }
