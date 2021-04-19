@@ -4,7 +4,7 @@
             font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
             font-weight:20px;
             margin-bottom: 50px;
-            margin-top: 50px;
+            margin-top: 55px;
             border: outset;
             border-style:dotted;
             border-color: #7ebed3;
@@ -39,7 +39,7 @@
         .color-h2{
             background-color: #7ebed3;
             border-radius: 20px;
-            border-style: dotted;
+            border-style:outset;
             padding: 15px;
             
         }
@@ -66,6 +66,16 @@
             position: fixed;
             top: 0;
             scroll-behavior: smooth;
+            text-align: center;
+            border: 5px;
+            border-style:double;
+            border-color:#bce0ec;
+        }
+        div.botoes{
+            line-height: 25px;
+            word-spacing: 30px;
+            border: 10px;
+            border-style:initial;
         }
         div.aprendizado{
             line-height:;
